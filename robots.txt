@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thohfeiten.jareenimam.com/sitemap.xml
